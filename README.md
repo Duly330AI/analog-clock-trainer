@@ -1,6 +1,6 @@
-# CRT Clock Reading Trainer
+# Analog Clock Trainer
 
-**CRT Clock Reading Trainer** is a small educational web app for practicing analog clock reading in English.
+**Analog Clock Trainer** is a small educational web app for practicing analog clock reading in English.
 
 The app shows an analog clock and asks the learner to identify the correct time expression. It includes multiple difficulty levels, a kid-friendly multiple-choice mode, score tracking, feedback after each answer, and a final training summary.
 
@@ -88,3 +88,7 @@ This is a small educational portfolio project focused on clock-reading practice 
 ## Disclaimer
 
 This is a private learning project and not an official school product.
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
