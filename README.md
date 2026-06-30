@@ -36,8 +36,6 @@ The app is functional and can be used for clock-reading practice. It is not a la
 
 ## Screenshots
 
-```md
-
 <img width="387" height="434" alt="Screenshot 2026-06-30 144107" src="https://github.com/user-attachments/assets/2c73ea3a-4436-4eca-a793-e000b3da29a1" />
 
 <img width="375" height="745" alt="Screenshot 2026-06-30 144031" src="https://github.com/user-attachments/assets/45222729-4508-4911-85d0-f29be71294cc" />
@@ -45,9 +43,6 @@ The app is functional and can be used for clock-reading practice. It is not a la
 <img width="405" height="616" alt="Screenshot 2026-06-30 144015" src="https://github.com/user-attachments/assets/28dea845-a7a4-409c-9403-088a78e1620f" />
 
 <img width="456" height="573" alt="Screenshot 2026-06-30 144620" src="https://github.com/user-attachments/assets/085530e3-a545-46b8-8bad-6d05a5284faa" />
-
-
-```
 
 ## Tech Stack
 
