@@ -12,6 +12,12 @@ The project was built as a focused learning tool and is suitable as a small port
 
 The app is functional and can be used for clock-reading practice. It is not a certified educational product, but a small training app with a clear educational purpose.
 
+## Live Demo
+
+Try the app here:
+
+[Open analog-clock-trainer](https://analog-clock-trainer.vercel.app)
+
 ## Features
 
 * Analog clock display
