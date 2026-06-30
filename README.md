@@ -8,9 +8,9 @@ The project was built as a focused learning tool and is suitable as a small port
 
 ## Status
 
-**Usable learning prototype**
+**Usable learning prototype / small educational side project**
 
-The app is functional and can be used for clock-reading practice. It is not a large production platform, but a small, polished training app with a clear educational purpose.
+The app is functional and can be used for clock-reading practice. It is not a certified educational product, but a small training app with a clear educational purpose.
 
 ## Features
 
@@ -49,6 +49,7 @@ The app is functional and can be used for clock-reading practice. It is not a la
 * Vite
 * React
 * TypeScript
+* Tailwind CSS
 
 ## Getting Started
 
@@ -68,10 +69,15 @@ npm install
 npm run dev
 ```
 
-## Project Notes
+### Build
 
-This repository is kept as a small educational app and portfolio project.
-It demonstrates a focused training flow, simple state management, responsive UI design, and child-friendly interaction patterns.
+```bash
+npm run build
+```
+
+## Notes
+
+This is a small educational portfolio project focused on clock-reading practice and interactive learning flow.
 
 ## Disclaimer
 
